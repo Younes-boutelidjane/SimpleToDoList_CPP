@@ -23,4 +23,4 @@ SimpleToDoList_CPP is a C++ project designed to manage tasks in a to-do list for
 Contributions are welcome. If you want to contribute to SimpleToDoList_CPP, please fork the repository, make your changes, and submit a pull request.
 
 ## License
-MIT License
+This project is licensed under the [MIT License](LICENSE)
